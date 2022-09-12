@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+p{
+    color: greenyellow;
+}
+h1{
+    color: green;
+}
+h2{
+    color: green;
+    
+}
+h3{
+    color: green;
+}
+.titulo{
+    display: flex;
+    margin-left: calc(50%);
+    margin-right: calc(50%);
+    display: row;
+}
